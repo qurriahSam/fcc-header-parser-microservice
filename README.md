@@ -12,7 +12,7 @@ This is my project of the [Request Header Parser challenge](https://www.freecode
 
 #### Example usage:
 
-- https://header-parser-microservice.andradeoromulo.repl.co/api/whoami
+- https://header-parser-hupd.onrender.com/api/whoami
 
 #### Example output:
 
