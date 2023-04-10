@@ -2,7 +2,7 @@
 
 ## About
 
-This is my project of the [Request Header Parser challenge](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice) for the freeCodeCamp API and Microservice certification. It was built based on the boilerplate available [here](https://github.com/freeCodeCamp/boilerplate-project-headerparser/).
+This is a project developed as part of the [Request Header Parser challenge](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice) for the freeCodeCamp API and Microservice certification. The project represents a robust and sophisticated solution that enables users to easily retrieve and view key information about their IP address, language, and software configuration. It was built based on the boilerplate available [here](https://github.com/freeCodeCamp/boilerplate-project-headerparser/).
 
 ## Endpoints:
 
